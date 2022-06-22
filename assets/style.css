@@ -1,0 +1,32 @@
+#name-input {
+    max-width: 50%;
+    justify-content: center;
+}
+#button-list > li {
+    margin: 10px;
+}
+ul {
+    list-style-type: none;
+}
+.btn-primary {
+    background-color: navy;
+    font-weight: 700;
+}
+#high-score-link {
+    color:blue;
+}
+#high-score-link:hover {
+    background-color: grey;
+    color:navy;
+}
+.display-4 {
+    font-weight: 600;
+    margin: 20px;
+}
+#high-score-list{
+    size: 40px;
+    justify-content: center;
+}
+li {
+    size: 30px;
+}
